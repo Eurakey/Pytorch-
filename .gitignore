@@ -1,0 +1,11 @@
+data
+dataloader
+dataset
+/*logs/
+p10
+p11
+imgs
+logs_maxpool
+logs_seq
+logs_train
+__pycache__/
